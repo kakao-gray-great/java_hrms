@@ -35,7 +35,7 @@
 ![](https://i.imgur.com/JE01clL.png)
 <br>
 - #### 예약 접수
-![](https://i.imgur.com/5q1EPCi.png)
+![](https://i.imgur.com/Qf9RJVY.png)
 <br>
 - #### 예약 리스트
 ![](https://i.imgur.com/7VBvBUW.png)
@@ -62,10 +62,10 @@
 <br>
 - #### 병원 정보
 ![](https://i.imgur.com/VC7tRwW.png)
-
 <br>
 - #### 병원 비밀번호 변경
-![](https://i.imgur.com/8OA2TLo.png)
+![](https://i.imgur.com/j3Rff85.png)
+
 
 ### 함께 한 GIT REPOSITORY
 - https://github.com/oopsys6/Java_HRMS-Hospital_GUI
