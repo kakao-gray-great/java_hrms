@@ -18,7 +18,7 @@
 
 ## :books: 기술 스택
 - <b>FRONT-END</b>: Java Swing
-- <b>BACK-END</b>: Java
+- <b>BACK-END</b>: Java, Python(data crawling)
 - <b>ETC</b>: Github
 
 ## :computer: VIEW
